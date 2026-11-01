@@ -1,5 +1,12 @@
 {
   "name": "蜗壳海外小铺 · 注册指南",
   "url": "https://chatgptchongzhi.github.io/googlezhuce/",
-  "language": "zh-CN"
+  "language": "zh-CN",
+  "gmailService": {
+    "title": "Google账号注册失败？Gmail邮箱无法验证？",
+    "description": "注册Google账号时遇到手机号无法验证、使用次数过多、Gmail收不到验证码等问题？如果不想反复尝试，可以了解Gmail邮箱代注册服务。",
+    "button": "查看Gmail代注册服务",
+    "url": "https://wokee888.shop/",
+    "note": "提供Google账号、Gmail邮箱代注册相关服务。具体交付方式、账号恢复权限和售后规则以服务页面说明为准。"
+  }
 }
