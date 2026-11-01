@@ -1,0 +1,4 @@
+# Informational only: robots.txt is effective only at the origin root.
+User-agent: *
+Allow: /
+Sitemap: https://chatgptchongzhi.github.io/googlezhuce/sitemap.xml
